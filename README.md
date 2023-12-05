@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on School Project and Robotics.<br>👯 I’m looking to an Internship on July 2023.<br>🤝 I’m looking for help with someone experience in Web Dev, AI and Robotics Software<br>🌱 I’m currently learning Audrino, HTML, JS.<br>⚡Sad Fun fact : I like Hardware more than Software.
+🔭 I’m currently working on School Project and Robotics.<br>👯 I’m looking to an Internship on July 2023.<br>🤝 I’m looking for help with someone experience in Web Dev, AI and Robotics Software<br>🌱 I’m currently learning Audrino, HTML, JS.<br>⚡Sad Fun fact : I like EE more than Software.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/melvin.siaw.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melvinsiaw03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melvin-siaw-6400ab252) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21845262/melvin-siaw) 
